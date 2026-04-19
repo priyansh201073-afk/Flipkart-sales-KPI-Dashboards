@@ -4,9 +4,6 @@ This is a Power BI dashboard I built using a Flipkart e-commerce dataset as part
 
 ---
 
-## Dashboard Preview
-
-> _Screenshot coming soon_
 
 ---
 
